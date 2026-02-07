@@ -1,0 +1,160 @@
+{
+  "book_id": "feminist_wave_mythopoeic_memory_identity",
+  "title": "The Salt That Remembers",
+  "tagline": "To inherit a story is to inherit a tide—and the choice to drown or to swim.",
+  "target_words": 70000,
+  "actual_words": 75728,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Sea as Living Memory",
+    "Matrilineal Inheritance of Myth",
+    "Domesticity as Resistance",
+    "The Erosion and Persistence of Identity"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Thief of Salt",
+      "words": 3155
+    },
+    {
+      "ch": 2,
+      "title": "The Sea's Rain",
+      "words": 3155
+    },
+    {
+      "ch": 3,
+      "title": "Atmospheric Pressure",
+      "words": 3155
+    },
+    {
+      "ch": 4,
+      "title": "The Echo in the Wall",
+      "words": 3155
+    },
+    {
+      "ch": 5,
+      "title": "Chart of Fading Bruises",
+      "words": 3155
+    },
+    {
+      "ch": 6,
+      "title": "Negotiating with the Deep",
+      "words": 3155
+    },
+    {
+      "ch": 7,
+      "title": "A Fortress of Stone",
+      "words": 3155
+    },
+    {
+      "ch": 8,
+      "title": "The Tide's Tithe",
+      "words": 3155
+    },
+    {
+      "ch": 9,
+      "title": "The Locked Door",
+      "words": 3155
+    },
+    {
+      "ch": 10,
+      "title": "The Scoured Shore",
+      "words": 3155
+    },
+    {
+      "ch": 11,
+      "title": "Kestrel's Grease-Stained Hands",
+      "words": 3155
+    },
+    {
+      "ch": 12,
+      "title": "The Final Chapter",
+      "words": 3155
+    },
+    {
+      "ch": 13,
+      "title": "Reflection in the Wet Stone",
+      "words": 3155
+    },
+    {
+      "ch": 14,
+      "title": "The Compass That Spins",
+      "words": 3155
+    },
+    {
+      "ch": 15,
+      "title": "Samphire and Iron",
+      "words": 3155
+    },
+    {
+      "ch": 16,
+      "title": "A Laugh Like a Beacon",
+      "words": 3155
+    },
+    {
+      "ch": 17,
+      "title": "Water in a Deep Well",
+      "words": 3155
+    },
+    {
+      "ch": 18,
+      "title": "The Map No One Wanted",
+      "words": 3155
+    },
+    {
+      "ch": 19,
+      "title": "Pebbles in a Surge",
+      "words": 3155
+    },
+    {
+      "ch": 20,
+      "title": "Holding It in Your Blood",
+      "words": 3155
+    },
+    {
+      "ch": 21,
+      "title": "The Uncontainable Sound",
+      "words": 3155
+    },
+    {
+      "ch": 22,
+      "title": "The Calling Note",
+      "words": 3155
+    },
+    {
+      "ch": 23,
+      "title": "The Claim",
+      "words": 3155
+    },
+    {
+      "ch": 24,
+      "title": "The Eroding Coastline",
+      "words": 3155
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character 'negotiates with the deep'—a modern or fantastical take on the Fisherwife's power.",
+      "Create a memory belonging to Lyra's mother, using sensory details of salt, sound, and texture.",
+      "Draft a letter from Aunt Marva to her sister (Lyra's mother), explaining her philosophy of 'cleanliness as a moral imperative'.",
+      "Imagine an encounter between Kestrel and a modern-day mechanic or engineer, where he explains the marsh using machine metaphors."
+    ],
+    "technical": [
+      "Build a 'Tide-Table Generator' that creates poetic warnings or prophecies based on weather data and lunar phases.",
+      "Create a visual 'Memory Map' of the marsh, where clicking on locations (the cottage, the shingle bank, the reed beds) reveals fragments of story, myth, and character memory."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin (mythopoeic structure, anthropologist's eye)",
+      "Virginia Woolf (stream of consciousness, memory as identity)",
+      "Margaret Atwood (feminist revision of myth, ecological tension)",
+      "Toni Morrison (the haunting weight of history, lyrical precision)"
+    ]
+  },
+  "cover_prompt": "A woman stands in the surf, her back to us, holding aloft a conch shell from which pours not sound, but a luminous cascade of ancestral faces and sea-foam memories, [Detailed Scene & Context: on a twilight beach where the wet sand perfectly mirrors the stormy sky above, creating a double horizon; in the reflection, the silhouettes of her mother and grandmother are visible, their forms woven from kelp and shifting sand, while on the shore behind her, a modest, warmly lit cottage window glows defiantly against the encroaching dark], [Artistic Style & Medium: in the atmospheric, textured, and mythic style of Anna Dittmann's ethereal digital paintings, with the fluid, organic forms and symbolic depth of Remedios Varo, rendered as a mixed-media piece with layers of oil glaze, salt crystallization, and delicate ink washes], [Composition & Camera: book cover framing, a centered and intimate portrait composition viewed from a low angle to emphasize the monumental sky and its reflection, the figure positioned at the intersection of the dual horizons, creating a powerful triptych of past, present, and place], [Lighting & Color Palette: dramatic chiaroscuro lighting from the cottage window and the bioluminescent stream from the shell, against the deep blues and slate greys of the impending storm; palette of muted oceanic teals, weathered silver, pearlescent shell pinks, and the warm, defiant gold of domestic light], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
