@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The salt came for me first. It always does. It’s a thief, you see. A slow, patient thief that doesn’t bother with your purse or your silver. It takes the moisture from your skin, the softness from your hair, the give from your leather boots until they stand on their own like little sentinels by the door. It powders the windowsills, crusts the corners of your eyes in the morning, and leaves a perpetual, desiccating kiss on your lips. Gran always said the salt was the memory of the sea, trying to get back in. I think it’s the sea’s revenge for us leaving it.
@@ -101,6 +103,8 @@ A drop of rain, heavy and cold, hit my cheek. Then another.
 The tide was on the turn.
 
 I took the path to the Shingle Bank.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -228,6 +232,8 @@ As we half-carried, half-dragged her back along the path, away from the Shingle 
 But I had touched the wall with the drawings. I had seen a woman walk into the waves. I had felt the cold, claiming grip of the tide.
 
 Gran was right. I had been building a wall. And tonight, the first crack had appeared, not in the stone, but in me. Let in by memory, by salt, by a story that was suddenly, terrifyingly, my own.
+
+# Chapter 3
 
 ## CHAPTER 3
 
