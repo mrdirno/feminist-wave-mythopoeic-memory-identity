@@ -2,7 +2,9 @@
 
 ## CHAPTER 1
 
-The salt came for me first. It always does. It’s a thief, you see. A slow, patient thief that doesn’t bother with your purse or your silver. It takes the moisture from your skin, the softness from your hair, the give from your leather boots until they stand on their own like little sentinels by the door. It powders the windowsills, crusts the corners of your eyes in the morning, and leaves a perpetual, desiccating kiss on your lips. Gran always said the salt was the memory of the sea, trying to get back in. I think it’s the sea’s revenge for us leaving it.
+Eleanor’s mother taught her to forget. A useful skill, for a woman. But the memories she buried didn’t die; they grew roots, pushing up through the floorboards of her life as splinters and strange blooms.
+
+
 
 I was on my knees, not praying, but scrubbing. The flagstones of the kitchen floor were the colour of old bone, and the brine that seeped up through the cracks in dry weather left a white, filigree pattern, like a map of a country no one wanted to visit. My knuckles were raw. Aunt Marva believed in cleanliness as a moral imperative, a bulwark against the chaos of the outer world and the inner mind. “A dirty floor is a dirty soul, Lyra,” she’d say, her voice the dry rustle of reeds. “Scrub until you see your own reflection, then scrub until you don’t.”
 
